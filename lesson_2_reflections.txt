@@ -1,2 +1,5 @@
 What happens whenyou initializea repository? Why do you need to do it?
 When you initialize a repository, Git creates an empty repository in the directory where you ran git init.
+
+How is the staging area different from the working direcotry and the repository? What value do you think it offers?
+Staging area is intermidiate between repository and working directory. It offers the possibility to track what you've got to commit
