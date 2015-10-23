@@ -9,3 +9,12 @@ I can keep track of changes I make before commiting. And check difference by usi
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches help to try out something new without affecting working code.
+
+How do the diagrams help you visualize the branch structure?
+They help me a lot.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is one branch with changes from both branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Automatic merging can't resolve conflicts
