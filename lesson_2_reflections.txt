@@ -3,3 +3,6 @@ When you initialize a repository, Git creates an empty repository in the directo
 
 How is the staging area different from the working direcotry and the repository? What value do you think it offers?
 Staging area is intermidiate between repository and working directory. It offers the possibility to track what you've got to commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can keep track of changes I make before commiting. And check difference by using git diff or git diff --staged
