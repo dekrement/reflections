@@ -1,0 +1,2 @@
+What happens whenyou initializea repository? Why do you need to do it?
+When you initialize a repository, Git creates an empty repository in the directory where you ran git init.
