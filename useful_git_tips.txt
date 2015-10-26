@@ -1,0 +1,2 @@
+If you accidently deleted some files manually, (no by git rm) you can run this command to add this changes to the staging area:
+    git ls-files --deleted -z | xargs -0 git rm 
